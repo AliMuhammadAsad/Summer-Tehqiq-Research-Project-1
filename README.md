@@ -1,8 +1,8 @@
-# Summer-Teqiq-1-WS
+# Developing a Course on Competitive Programming - Summer Tehqiq Research Project 1
 
 This is our Summer Tehqiq Research Project 1 (STRP-1); a 10 week long research project taken up in our second summers - after 4th Semester. 
-The research assistants are Ali Muhammad, Areesha Amir, and Iqra Ahmed under the supervision of Dr. Waqar Saleem who is conducting the research project. 
-The project, "Developing a Course on Competitive Programming" aims to develop a Computer Science course on competitive programming and propose metrics to measure its effectiveness. By the end of the research, a syllabus for the course will be designed to be offered as an elective to the students of Habib University
+The research assistants are <a href="https://www.linkedin.com/in/ali-muhammad-asad/">Ali Muhammad</a>, Areesha Amir, and Iqra Ahmed under the supervision of Dr. Waqar Saleem who is conducting the research project. 
+The project, "Developing a Course on Competitive Programming" aims to develop a Computer Science course on competitive programming and propose metrics to measure its effectiveness. By the end of the research, a syllabus for the course was designed to be offered as an elective to the students of Habib University. The course has been approved and is taught from Spring 2024 onwards.
 . 
 Along with preparing teams for competitions like the ICPC, the course will help catalyse the already growing interest of competitive programming in the community by providing opportunities for the general student body to engage and improve their skills.
 
@@ -11,11 +11,11 @@ The tentative plan for the completion of this research project is as below. More
 ![Tentative Plan](Tentative-Plan.png)
 
 
-## Project Status: Literature Review, Course Design
+## Project Status: Complete
 
 ## Work Files
 
-This section contains all the files that are currently being worked on.
+This section contains all (or most) of the files that were worked on.
 
 ### STRP Deliverables:
 
